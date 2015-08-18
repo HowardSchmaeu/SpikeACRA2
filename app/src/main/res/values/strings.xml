@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpikeACRA</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crash_toast_text">U\'ve got a crash</string>
+</resources>
